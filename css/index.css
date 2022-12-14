@@ -1,0 +1,88 @@
+body {
+  background-color: rgb(129, 142, 153);
+}
+.block {
+  height: auto;
+  background-color: rgb(174, 196, 196);
+  max-width: 800px;
+  margin: 0px auto;
+  border-radius: 20px;
+  box-shadow: 0 5px 100px 0 rgba(0, 0, 0, 1);
+}
+.menu {
+  padding-left: 85px;
+  background-color: rgb(71, 70, 70);
+  line-height: 80px;
+
+  border-radius: 20px 20px 0 0;
+}
+
+.pin1 {
+  font-size: 40px;
+  color: rgb(2, 1, 2);
+  margin: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.pin1:hover {
+  font-size: 40px;
+  color: rgb(115, 115, 115);
+  margin: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  box-shadow: 0px 0px 10px red;
+}
+
+.hello {
+  margin-top: 50px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 30px;
+}
+.about {
+  padding-top: 50px;
+  text-align: center;
+  padding: 10px 50px 0 50px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 20px;
+}
+
+.foto {
+  width: 250px;
+}
+table {
+  border: 3px solid black;
+}
+
+.title {
+  width: 700px;
+  padding: 50px 50px 0 50px;
+}
+.albom {
+  padding-top: 50px;
+  padding-left: 20px;
+}
+
+.mail {
+  width: 80px;
+
+  padding-left: 70px;
+}
+.mail1 {
+  display: block;
+  margin-left: 30px;
+}
+
+.link {
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  padding-bottom: 30px;
+  color: black;
+}
+
+.link:hover {
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  padding-bottom: 30px;
+  color: rgb(159, 155, 155);
+}
